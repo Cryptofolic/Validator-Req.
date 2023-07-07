@@ -1,1 +1,18 @@
-
+Depending on the # of validators running, this will determine the hardware needed for long term execution on chain.
+Min of 2TB SSD (4 for ULTRA), Intel I7 CPU, Onboard GPU is fine, 32-64gb of DDR4. If under 5 active Validators you can run min.
+Linux 22.04.2 OS 'https://ubuntu.com/' <- download here (32GB flash drive required). This will need to be on a bootable drive (Rufus Application does this)
+You will need a secure network, (Home and Guest) Suggested putting wireless and other non trusted devices on guest / Main machine and trusted on home.
+Wired Internet with min 100mb/sec speeds
+UPS (uninteruptable power supply) For modem, router and machine, you will need 2. (Cyberpower UPS is good) 
+Building a pc (cyberpower.com) or buying a NUC 9 is recommended with listed above hardware.
+There will be a need to have another clean machine (extra laying around ? great !) this machine is going to generate your "KEYS" offline safley for your validator securities + addresses associated.
+All accessories to run on your PC, Yes i am going to list the need for a keyboard, mouse, any monitor , INCLUDING a few EXTRA USB drives that are new.
+Everyones internet is different and ports play a role in communication ( also to consider ) i do know EERO routers work well!
+These are the primary musts to even start before understanding code and language to become a successful validator.
+There are minimal risks per say other than user error / WE ALWAYS TEST ON TEST NET FIRST 
+As a validator you are collateralizing your tokens onto the network and confirming transactions in rotation to recieve many fees!
+Now if you are secure and have executed everything properly , IMO this is just as safe as having your wallet full, ETH has offered PLS top not security. 
+Some like to have alot of extras to monitor their validators  , NOT NECESSARY , the mainntenece is not much at all... just updates here and there + making sure your internet is up 100%.
+There are those instances that shit can go down. But the support is there online. If you had uptime of 29 days and downtime of 2, nothing to worry about. Usually steps on corruption would just need to clear data and resync. (24 hours downtime)
+You will need commitment to understand what is actually happening, but it actually all comes together with patience, and it can be rewarding.
+IF YOU READ ALL OF THIS AND DO NOT SEEM OVERWHELMED, YOU MIGHT JUST HAVE WHAT IT TAKES.
